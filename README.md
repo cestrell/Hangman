@@ -1,5 +1,5 @@
-# NAME
-README.md Template
+# Hangman
+GUI for Hangman game
 
 ## Setup
 ```
